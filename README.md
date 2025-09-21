@@ -1,4 +1,4 @@
-# feh-gif-wallpaper
+# Feh-Gif-Wallpaper
 
 A simple script to set a **GIF** or other animated image as your wallpaper in i3 WM (or any WM/DE that supports `feh`).
 
