@@ -12,7 +12,7 @@ Make sure the following packages are installed on your system:
 - **feh** → sets images as wallpapers.
 - **ImageMagick** (`magick`) → converts GIFs into frames.
 - **xset** → checks whether the X server is running.
-# Usage Guide
+### Usage Guide
 
 This script allows you to set an animated **GIF** as your wallpaper using `feh` and `ImageMagick`.
 ```
