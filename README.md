@@ -17,7 +17,7 @@ Make sure the following packages are installed on your system:
 This script allows you to set an animated **GIF** as your wallpaper using `feh` and `ImageMagick`.
 
 ## Basic Command
-```bash
+```setup
 ./Setup.sh photo.gif [interval]
 
 
