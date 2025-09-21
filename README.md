@@ -16,3 +16,10 @@ Make sure the following packages are installed on your system:
 ### Installation on Arch Linux / Manjaro
 ```bash
 sudo pacman -S feh imagemagick xorg-xset
+# Usage Guide
+
+This script allows you to set an animated **GIF** as your wallpaper using `feh` and `ImageMagick`.
+
+## Basic Command
+```bash
+./Setup.sh photo.gif [interval]
