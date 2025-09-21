@@ -15,12 +15,11 @@ Make sure the following packages are installed on your system:
 # Usage Guide
 
 This script allows you to set an animated **GIF** as your wallpaper using `feh` and `ImageMagick`.
-
-## Basic Command
-```setup
-./Setup.sh photo.gif [interval]
-
+```
+./Setup.sh example.gif
+```
 
 ### Installation on Arch Linux / Manjaro
-```bash
+```
 sudo pacman -S feh imagemagick xorg-xset
+```
