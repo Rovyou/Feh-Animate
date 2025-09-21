@@ -12,10 +12,6 @@ Make sure the following packages are installed on your system:
 - **feh** → sets images as wallpapers.
 - **ImageMagick** (`magick`) → converts GIFs into frames.
 - **xset** → checks whether the X server is running.
-
-### Installation on Arch Linux / Manjaro
-```bash
-sudo pacman -S feh imagemagick xorg-xset
 # Usage Guide
 
 This script allows you to set an animated **GIF** as your wallpaper using `feh` and `ImageMagick`.
@@ -23,3 +19,8 @@ This script allows you to set an animated **GIF** as your wallpaper using `feh` 
 ## Basic Command
 ```bash
 ./Setup.sh photo.gif [interval]
+
+
+### Installation on Arch Linux / Manjaro
+```bash
+sudo pacman -S feh imagemagick xorg-xset
